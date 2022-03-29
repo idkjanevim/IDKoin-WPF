@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4b54fd80-dc14-4d83-b08e-94b309760ead": {
+      "ProjectGuid": "4b54fd80-dc14-4d83-b08e-94b309760ead",
+      "DisplayName": "MVVMIDKoin",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
